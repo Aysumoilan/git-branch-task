@@ -1,4 +1,7 @@
 name = "Student"
-task_name = "Git practice"
+task_name = "Branch workflow task"
+status = "In Progress"
 
-print(f"{task_name}: {name}")
+print("Git practice:", name)
+print("Current step:", task_name)
+print("Status:", status)
